@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  
+### Olá! Meu nome é Vinicius Kaolo Futema Sonoda, tenho 18 anos. 👋
 
-<!--
-**Vinicius-Kaolo-Futema-Sonoda/Vinicius-Kaolo-Futema-Sonoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏆 Formação: Ensino médio - E.E. Professor Américo de Moura (2022-2024)🏆
 
-Here are some ideas to get you started:
+📚 Cursando: Análise e Desenvolvimento de Sistemas - Senac EAD (1º/6º)📚
+  
+Desenvolvimento de Software/ Windows kernel Driver/ Desenvolvedor Low Level/ Automação de Tarefas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <hr>
+  
+   ### Tecnologias que estou estudando 👨‍💻:
+
+
+  
+  <a href="https://github.com/Vinicius-Kaolo-Futema-Sonoda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Kaolo-Futema-Sonoda&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Kaolo-Futema-Sonoda&layout=compact&langs_count=7&theme=highcontrast"/>
+     
+</span>
+ 
+<div> 
+  
+  <hr>
+  
+### Contatos:
+  <a href = "mailto: viniciusfutema@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Vinicius-Futema/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
