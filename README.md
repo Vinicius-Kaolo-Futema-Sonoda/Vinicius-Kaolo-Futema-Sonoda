@@ -8,6 +8,7 @@
   
 Desenvolvimento de Software/ Windows kernel Driver/ Desenvolvedor Low Level/ Automação de Tarefas
 
+Funcionário em Seiko Partners
   <hr>
   
    ### Tecnologias que estou estudando 👨‍💻:
