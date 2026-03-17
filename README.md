@@ -1,6 +1,6 @@
 <div align="center">
   
-### Olá! Meu nome é Vinicius Kaolo Futema Sonoda, tenho 18 anos. 👋
+### Olá! Meu nome é Vinicius Kaolo Futema Sonoda, tenho 19 anos. 👋
 
 🏆 Formação: Ensino médio - E.E. Professor Américo de Moura (2022-2024)🏆
 
