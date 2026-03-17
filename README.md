@@ -4,7 +4,7 @@
 
 🏆 Formação: Ensino médio - E.E. Professor Américo de Moura (2022-2024)🏆
 
-📚 Cursando: Análise e Desenvolvimento de Sistemas - Senac EAD (1º/6º)📚
+📚 Cursando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo (1/6)📚
   
 Desenvolvimento de Software/ Windows kernel Driver/ Desenvolvedor Low Level/ Automação de Tarefas
 
